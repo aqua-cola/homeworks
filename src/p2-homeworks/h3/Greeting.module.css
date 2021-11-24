@@ -1,7 +1,19 @@
 .someClass {
-
+    background-color: darkslateblue;
+    height: 50px;
 }
 
 .error {
     border: 1px solid red;
+}
+
+.red {
+    font-size: 14px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: red;
+}
+
+.totalUsers {
+    padding-left: 10px;
+    color: whitesmoke;
 }
